@@ -1,0 +1,28 @@
+{
+  "__comment": "This file was machine localized and is likely low quality. Human translations are welcome. Machine translations are only used as a better alternative to english as a fallback.",
+  "itemgroup.gildedsherds.tab": "Позолоченные обломки",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "Намек золота",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "Обломок глиняной посуды с золотым самородком.",
+
+  "item.gildedsherds.angler_pottery_sherd": "Позолоченный обломок глиняной посуды для рыбака",
+  "item.gildedsherds.archer_pottery_sherd": "Позолоченный обломок глиняной посуды для лучника",
+  "item.gildedsherds.arms_up_pottery_sherd": "Позолоченный обломок глиняной посуды с поднятыми руками",
+  "item.gildedsherds.blade_pottery_sherd": "Позолоченный обломок глиняной посуды с лезвием",
+  "item.gildedsherds.brewer_pottery_sherd": "Позолоченный обломок глиняной посуды для пивовара",
+  "item.gildedsherds.burn_pottery_sherd": "Позолоченный обломок глиняной посуды для обжига",
+  "item.gildedsherds.danger_pottery_sherd": "Позолоченный обломок глиняной посуды опасности",
+  "item.gildedsherds.explorer_pottery_sherd": "Позолоченный обломок глиняной посуды для исследователя",
+  "item.gildedsherds.friend_pottery_sherd": "Позолоченный обломок глиняной посуды для друга",
+  "item.gildedsherds.heart_pottery_sherd": "Позолоченный обломок глиняной посуды с сердцем",
+  "item.gildedsherds.heartbreak_pottery_sherd": "Позолоченный обломок глиняной посуды с разбитым сердцем",
+  "item.gildedsherds.howl_pottery_sherd": "Позолоченный обломок глиняной посуды с воем",
+  "item.gildedsherds.miner_pottery_sherd": "Позолоченный обломок глиняной посуды для шахтера",
+  "item.gildedsherds.mourner_pottery_sherd": "Позолоченный обломок глиняной посуды для плакальщика",
+  "item.gildedsherds.plenty_pottery_sherd": "Позолоченный обломок глиняной посуды изобилия",
+  "item.gildedsherds.prize_pottery_sherd": "Позолоченный обломок глиняной посуды приза",
+  "item.gildedsherds.sheaf_pottery_sherd": "Позолоченный обломок глиняной посуды с пучком",
+  "item.gildedsherds.shelter_pottery_sherd": "Позолоченный обломок глиняной посуды укрытия",
+  "item.gildedsherds.skull_pottery_sherd": "Позолоченный обломок глиняной посуды с черепом",
+  "item.gildedsherds.snort_pottery_sherd": "Позолоченный обломок глиняной посуды с фырканьем"
+}

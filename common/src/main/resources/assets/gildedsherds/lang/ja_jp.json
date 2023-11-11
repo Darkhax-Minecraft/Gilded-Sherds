@@ -1,0 +1,28 @@
+{
+  "__comment": "This file was machine localized and is likely low quality. Human translations are welcome. Machine translations are only used as a better alternative to english as a fallback.",
+  "itemgroup.gildedsherds.tab": "ゴールデンシャード",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "ゴールドの触れ心地",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "陶片に黄金の塊を使って陽気にギルドしましょう。",
+
+  "item.gildedsherds.angler_pottery_sherd": "輝くアングラー陶器の破片",
+  "item.gildedsherds.archer_pottery_sherd": "輝くアーチャー陶器の破片",
+  "item.gildedsherds.arms_up_pottery_sherd": "輝くアームズアップ陶器の破片",
+  "item.gildedsherds.blade_pottery_sherd": "輝くブレード陶器の破片",
+  "item.gildedsherds.brewer_pottery_sherd": "輝くブルワー陶器の破片",
+  "item.gildedsherds.burn_pottery_sherd": "輝くバーン陶器の破片",
+  "item.gildedsherds.danger_pottery_sherd": "輝くデンジャー陶器の破片",
+  "item.gildedsherds.explorer_pottery_sherd": "輝くエクスプローラー陶器の破片",
+  "item.gildedsherds.friend_pottery_sherd": "輝くフレンド陶器の破片",
+  "item.gildedsherds.heart_pottery_sherd": "輝くハート陶器の破片",
+  "item.gildedsherds.heartbreak_pottery_sherd": "輝くハートブレイク陶器の破片",
+  "item.gildedsherds.howl_pottery_sherd": "輝くハウル陶器の破片",
+  "item.gildedsherds.miner_pottery_sherd": "輝くマイナー陶器の破片",
+  "item.gildedsherds.mourner_pottery_sherd": "輝くモーナー陶器の破片",
+  "item.gildedsherds.plenty_pottery_sherd": "輝くプレンティ陶器の破片",
+  "item.gildedsherds.prize_pottery_sherd": "輝くプライズ陶器の破片",
+  "item.gildedsherds.sheaf_pottery_sherd": "輝くシーフ陶器の破片",
+  "item.gildedsherds.shelter_pottery_sherd": "輝くシェルター陶器の破片",
+  "item.gildedsherds.skull_pottery_sherd": "輝くスカル陶器の破片",
+  "item.gildedsherds.snort_pottery_sherd": "輝くスノート陶器の破片"
+}

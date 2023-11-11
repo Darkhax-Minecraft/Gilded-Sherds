@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:arms_up_pottery_sherd"
+    }
+  ],
+  "result": {
+    "item": "gildedsherds:arms_up_pottery_sherd"
+  }
+}

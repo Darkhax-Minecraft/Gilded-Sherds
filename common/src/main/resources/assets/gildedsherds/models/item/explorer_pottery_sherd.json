@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gildedsherds:item/explorer_pottery_sherd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__comment": "This file was machine localized and is likely low quality. Human translations are welcome. Machine translations are only used as a better alternative to english as a fallback.",
+  "itemgroup.gildedsherds.tab": "Fragmentos Dourados",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "Um Toque de Ouro",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "Dourar um caco de cerâmica com uma pepita de ouro.",
+
+  "item.gildedsherds.angler_pottery_sherd": "Caco de Cerâmica Dourado do Pescador",
+  "item.gildedsherds.archer_pottery_sherd": "Caco de Cerâmica Dourado do Arqueiro",
+  "item.gildedsherds.arms_up_pottery_sherd": "Caco de Cerâmica Dourado com Braços Levantados",
+  "item.gildedsherds.blade_pottery_sherd": "Caco de Cerâmica Dourado da Lâmina",
+  "item.gildedsherds.brewer_pottery_sherd": "Caco de Cerâmica Dourado do Cervejeiro",
+  "item.gildedsherds.burn_pottery_sherd": "Caco de Cerâmica Dourado do Queimador",
+  "item.gildedsherds.danger_pottery_sherd": "Caco de Cerâmica Dourado do Perigo",
+  "item.gildedsherds.explorer_pottery_sherd": "Caco de Cerâmica Dourado do Explorador",
+  "item.gildedsherds.friend_pottery_sherd": "Caco de Cerâmica Dourado do Amigo",
+  "item.gildedsherds.heart_pottery_sherd": "Caco de Cerâmica Dourado do Coração",
+  "item.gildedsherds.heartbreak_pottery_sherd": "Caco de Cerâmica Dourado da Desilusão",
+  "item.gildedsherds.howl_pottery_sherd": "Caco de Cerâmica Dourado do Uivo",
+  "item.gildedsherds.miner_pottery_sherd": "Caco de Cerâmica Dourado do Mineiro",
+  "item.gildedsherds.mourner_pottery_sherd": "Caco de Cerâmica Dourado do Lamentador",
+  "item.gildedsherds.plenty_pottery_sherd": "Caco de Cerâmica Dourado da Abundância",
+  "item.gildedsherds.prize_pottery_sherd": "Caco de Cerâmica Dourado do Prêmio",
+  "item.gildedsherds.sheaf_pottery_sherd": "Caco de Cerâmica Dourado do Feixe",
+  "item.gildedsherds.shelter_pottery_sherd": "Caco de Cerâmica Dourado do Abrigo",
+  "item.gildedsherds.skull_pottery_sherd": "Caco de Cerâmica Dourado do Crânio",
+  "item.gildedsherds.snort_pottery_sherd": "Caco de Cerâmica Dourado do Resmungo"
+}

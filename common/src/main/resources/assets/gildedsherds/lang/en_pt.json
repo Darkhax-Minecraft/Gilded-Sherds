@@ -1,0 +1,28 @@
+{
+  "__comment": "If this file is compressed to a single line you are viewing the compressed data. The original can be found here: https://github.com/Darkhax/Gilded-Sherds",
+  "itemgroup.gildedsherds.tab": "Golden Shards",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "A Touch of the Yellow Metal",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "Gild a piece of me pottery with a shiny golden nugget, arrr!",
+
+  "item.gildedsherds.angler_pottery_sherd": "Shiny Fisherman's Fragment",
+  "item.gildedsherds.archer_pottery_sherd": "Shiny Bowman's Fragment",
+  "item.gildedsherds.arms_up_pottery_sherd": "Shiny Arms to the Sky Fragment",
+  "item.gildedsherds.blade_pottery_sherd": "Shiny Cutlass Fragment",
+  "item.gildedsherds.brewer_pottery_sherd": "Shiny Ale-Maker's Fragment",
+  "item.gildedsherds.burn_pottery_sherd": "Shiny Scorched Fragment",
+  "item.gildedsherds.danger_pottery_sherd": "Shiny Perilous Fragment",
+  "item.gildedsherds.explorer_pottery_sherd": "Shiny Adventurer's Fragment",
+  "item.gildedsherds.friend_pottery_sherd": "Shiny Matey's Fragment",
+  "item.gildedsherds.heart_pottery_sherd": "Shiny Lovely Fragment",
+  "item.gildedsherds.heartbreak_pottery_sherd": "Shiny Sorrowful Fragment",
+  "item.gildedsherds.howl_pottery_sherd": "Shiny Wailin' Fragment",
+  "item.gildedsherds.miner_pottery_sherd": "Shiny Digger's Fragment",
+  "item.gildedsherds.mourner_pottery_sherd": "Shiny Grievin' Fragment",
+  "item.gildedsherds.plenty_pottery_sherd": "Shiny Bountiful Fragment",
+  "item.gildedsherds.prize_pottery_sherd": "Shiny Treasure Fragment",
+  "item.gildedsherds.sheaf_pottery_sherd": "Shiny Bundle o' Wheat Fragment",
+  "item.gildedsherds.shelter_pottery_sherd": "Shiny Haven Fragment",
+  "item.gildedsherds.skull_pottery_sherd": "Shiny Bone 'n' Head Fragment",
+  "item.gildedsherds.snort_pottery_sherd": "Shiny Noisy Fragment"
+}

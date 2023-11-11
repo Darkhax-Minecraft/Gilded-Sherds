@@ -1,0 +1,28 @@
+{
+  "__comment": "This file was machine localized and is likely low quality. Human translations are welcome. Machine translations are only used as a better alternative to english as a fallback.",
+  "itemgroup.gildedsherds.tab": "Vergoldete Scherben",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "Ein Hauch von Gold",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "Vergolde einen Tonscherben mit einem goldenen Nugget.",
+
+  "item.gildedsherds.angler_pottery_sherd": "Vergoldeter Angler-Tonscherben",
+  "item.gildedsherds.archer_pottery_sherd": "Vergoldeter Bogenschützen-Tonscherben",
+  "item.gildedsherds.arms_up_pottery_sherd": "Vergoldeter Tonscherben mit erhobenen Armen",
+  "item.gildedsherds.blade_pottery_sherd": "Vergoldeter Klingen-Tonscherben",
+  "item.gildedsherds.brewer_pottery_sherd": "Vergoldeter Brauer-Tonscherben",
+  "item.gildedsherds.burn_pottery_sherd": "Vergoldeter Verbrannter-Tonscherben",
+  "item.gildedsherds.danger_pottery_sherd": "Vergoldeter Gefährlicher-Tonscherben",
+  "item.gildedsherds.explorer_pottery_sherd": "Vergoldeter Entdecker-Tonscherben",
+  "item.gildedsherds.friend_pottery_sherd": "Vergoldeter Freund-Tonscherben",
+  "item.gildedsherds.heart_pottery_sherd": "Vergoldeter Herz-Tonscherben",
+  "item.gildedsherds.heartbreak_pottery_sherd": "Vergoldeter Herzbruch-Tonscherben",
+  "item.gildedsherds.howl_pottery_sherd": "Vergoldeter Heulton-Tonscherben",
+  "item.gildedsherds.miner_pottery_sherd": "Vergoldeter Bergarbeiter-Tonscherben",
+  "item.gildedsherds.mourner_pottery_sherd": "Vergoldeter Trauernder-Tonscherben",
+  "item.gildedsherds.plenty_pottery_sherd": "Vergoldeter Fülle-Tonscherben",
+  "item.gildedsherds.prize_pottery_sherd": "Vergoldeter Preis-Tonscherben",
+  "item.gildedsherds.sheaf_pottery_sherd": "Vergoldeter Garbe-Tonscherben",
+  "item.gildedsherds.shelter_pottery_sherd": "Vergoldeter Unterschlupf-Tonscherben",
+  "item.gildedsherds.skull_pottery_sherd": "Vergoldeter Totenkopf-Tonscherben",
+  "item.gildedsherds.snort_pottery_sherd": "Vergoldeter Schnauben-Tonscherben"
+}

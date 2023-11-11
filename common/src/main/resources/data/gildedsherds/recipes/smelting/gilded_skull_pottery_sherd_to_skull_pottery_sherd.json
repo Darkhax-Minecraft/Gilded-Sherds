@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "gilded_sherd_to_sherd",
+  "ingredient": {
+    "item": "gildedsherds:skull_pottery_sherd"
+  },
+  "result": "minecraft:skull_pottery_sherd"
+}

@@ -1,0 +1,28 @@
+{
+  "__comment": "This file was machine localized and is likely low quality. Human translations are welcome. Machine translations are only used as a better alternative to english as a fallback.",
+  "itemgroup.gildedsherds.tab": "镀金陶瓷碎片",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "一抹金光",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "用金块给陶瓷碎片镀金。",
+
+  "item.gildedsherds.angler_pottery_sherd": "镀金垂钓陶瓷碎片",
+  "item.gildedsherds.archer_pottery_sherd": "镀金弓箭手陶瓷碎片",
+  "item.gildedsherds.arms_up_pottery_sherd": "镀金举手陶瓷碎片",
+  "item.gildedsherds.blade_pottery_sherd": "镀金刀剑陶瓷碎片",
+  "item.gildedsherds.brewer_pottery_sherd": "镀金酿酒师陶瓷碎片",
+  "item.gildedsherds.burn_pottery_sherd": "镀金火烧陶瓷碎片",
+  "item.gildedsherds.danger_pottery_sherd": "镀金危险陶瓷碎片",
+  "item.gildedsherds.explorer_pottery_sherd": "镀金探险家陶瓷碎片",
+  "item.gildedsherds.friend_pottery_sherd": "镀金朋友陶瓷碎片",
+  "item.gildedsherds.heart_pottery_sherd": "镀金心形陶瓷碎片",
+  "item.gildedsherds.heartbreak_pottery_sherd": "镀金心碎陶瓷碎片",
+  "item.gildedsherds.howl_pottery_sherd": "镀金嚎叫陶瓷碎片",
+  "item.gildedsherds.miner_pottery_sherd": "镀金矿工陶瓷碎片",
+  "item.gildedsherds.mourner_pottery_sherd": "镀金哀悼者陶瓷碎片",
+  "item.gildedsherds.plenty_pottery_sherd": "镀金丰富陶瓷碎片",
+  "item.gildedsherds.prize_pottery_sherd": "镀金奖品陶瓷碎片",
+  "item.gildedsherds.sheaf_pottery_sherd": "镀金庄稼捆陶瓷碎片",
+  "item.gildedsherds.shelter_pottery_sherd": "镀金庇护所陶瓷碎片",
+  "item.gildedsherds.skull_pottery_sherd": "镀金头骨陶瓷碎片",
+  "item.gildedsherds.snort_pottery_sherd": "镀金哼声陶瓷碎片"
+}

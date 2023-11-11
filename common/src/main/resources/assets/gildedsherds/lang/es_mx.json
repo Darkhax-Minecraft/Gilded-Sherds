@@ -1,0 +1,28 @@
+{
+  "__comment": "This file was machine localized and is likely low quality. Human translations are welcome. Machine translations are only used as a better alternative to english as a fallback.",
+  "itemgroup.gildedsherds.tab": "Fragmentos Dorados",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "Un Toque de Oro",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "Dora un pedazo de cerámica con un pepita de oro.",
+
+  "item.gildedsherds.angler_pottery_sherd": "Fragmento de Cerámica Dorado de Pescador",
+  "item.gildedsherds.archer_pottery_sherd": "Fragmento de Cerámica Dorado de Arquero",
+  "item.gildedsherds.arms_up_pottery_sherd": "Fragmento de Cerámica Dorado de Brazos Arriba",
+  "item.gildedsherds.blade_pottery_sherd": "Fragmento de Cerámica Dorado de Cuchilla",
+  "item.gildedsherds.brewer_pottery_sherd": "Fragmento de Cerámica Dorado de Cervecero",
+  "item.gildedsherds.burn_pottery_sherd": "Fragmento de Cerámica Dorado Quemado",
+  "item.gildedsherds.danger_pottery_sherd": "Fragmento de Cerámica Dorado de Peligro",
+  "item.gildedsherds.explorer_pottery_sherd": "Fragmento de Cerámica Dorado de Explorador",
+  "item.gildedsherds.friend_pottery_sherd": "Fragmento de Cerámica Dorado de Amigo",
+  "item.gildedsherds.heart_pottery_sherd": "Fragmento de Cerámica Dorado en Forma de Corazón",
+  "item.gildedsherds.heartbreak_pottery_sherd": "Fragmento de Cerámica Dorado de Desamor",
+  "item.gildedsherds.howl_pottery_sherd": "Fragmento de Cerámica Dorado de Aullido",
+  "item.gildedsherds.miner_pottery_sherd": "Fragmento de Cerámica Dorado de Minero",
+  "item.gildedsherds.mourner_pottery_sherd": "Fragmento de Cerámica Dorado de Doliente",
+  "item.gildedsherds.plenty_pottery_sherd": "Fragmento de Cerámica Dorado de Abundancia",
+  "item.gildedsherds.prize_pottery_sherd": "Fragmento de Cerámica Dorado de Premio",
+  "item.gildedsherds.sheaf_pottery_sherd": "Fragmento de Cerámica Dorado de Haz",
+  "item.gildedsherds.shelter_pottery_sherd": "Fragmento de Cerámica Dorado de Refugio",
+  "item.gildedsherds.skull_pottery_sherd": "Fragmento de Cerámica Dorado de Calavera",
+  "item.gildedsherds.snort_pottery_sherd": "Fragmento de Cerámica Dorado de Resoplido"
+}

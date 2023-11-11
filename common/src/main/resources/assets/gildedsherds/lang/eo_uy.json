@@ -1,0 +1,28 @@
+{
+  "__comment": "This file was machine localized and is likely low quality. Human translations are welcome. Machine translations are only used as a better alternative to english as a fallback.",
+  "itemgroup.gildedsherds.tab": "Oraĵaj Ŝercoj",
+
+  "advancements.gildedsherds.adventure.touch_of_gold.title": "Tuŝo de Oro",
+  "advancements.gildedsherds.adventure.touch_of_gold.description": "Oraĵu peco de argilaĵo per brila oraĵo.",
+
+  "item.gildedsherds.angler_pottery_sherd": "Brila Angulpesilo Argilaĵo",
+  "item.gildedsherds.archer_pottery_sherd": "Brila Arkpafilo Argilaĵo",
+  "item.gildedsherds.arms_up_pottery_sherd": "Brila Laŭtiras Argilaĵo",
+  "item.gildedsherds.blade_pottery_sherd": "Brila Tranĉilo Argilaĵo",
+  "item.gildedsherds.brewer_pottery_sherd": "Brila Bierfaristo Argilaĵo",
+  "item.gildedsherds.burn_pottery_sherd": "Brila Bruligita Argilaĵo",
+  "item.gildedsherds.danger_pottery_sherd": "Brila Danĝero Argilaĵo",
+  "item.gildedsherds.explorer_pottery_sherd": "Brila Esploristo Argilaĵo",
+  "item.gildedsherds.friend_pottery_sherd": "Brila Amiko Argilaĵo",
+  "item.gildedsherds.heart_pottery_sherd": "Brila Koro Argilaĵo",
+  "item.gildedsherds.heartbreak_pottery_sherd": "Brila Korbatiĝo Argilaĵo",
+  "item.gildedsherds.howl_pottery_sherd": "Brila Kriado Argilaĵo",
+  "item.gildedsherds.miner_pottery_sherd": "Brila Ministo Argilaĵo",
+  "item.gildedsherds.mourner_pottery_sherd": "Brila Ploranto Argilaĵo",
+  "item.gildedsherds.plenty_pottery_sherd": "Brila Abundo Argilaĵo",
+  "item.gildedsherds.prize_pottery_sherd": "Brila Premio Argilaĵo",
+  "item.gildedsherds.sheaf_pottery_sherd": "Brila Garbo Argilaĵo",
+  "item.gildedsherds.shelter_pottery_sherd": "Brila Refugio Argilaĵo",
+  "item.gildedsherds.skull_pottery_sherd": "Brila Kranio Argilaĵo",
+  "item.gildedsherds.snort_pottery_sherd": "Brila Fajfado Argilaĵo"
+}

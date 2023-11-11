@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:adventure/salvage_sherd",
+  "display": {
+    "announce_to_chat": true,
+    "title": {
+      "translate": "advancements.gildedsherds.adventure.touch_of_gold.title"
+    },
+    "description": {
+      "translate": "advancements.gildedsherds.adventure.touch_of_gold.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "gildedsherds:howl_pottery_sherd"
+    },
+    "show_toast": true
+  },
+  "criteria": {
+    "gild_a_sherd": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "gildedsherds:gilded_sherds"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "gild_a_sherd"
+    ]
+  ]
+}
