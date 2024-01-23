@@ -13,7 +13,7 @@ public class GildedSherdsNeoforge {
     @SubscribeEvent
     public static void registerStuff(RegisterEvent event) {
 
-        event.register(Registries.ITEM, helper -> GildedSherdsCommon.registerItems((id, item) -> helper.register(id, item)));
+        event.register(Registries.ITEM, helper -> GildedSherdsCommon.registerItems(helper::register));
         event.register(Registries.CREATIVE_MODE_TAB, helper -> helper.register(GildedSherdsCommon.TAB_ID, GildedSherdsCommon.createTab(CreativeModeTab.builder())));
     }
 }
