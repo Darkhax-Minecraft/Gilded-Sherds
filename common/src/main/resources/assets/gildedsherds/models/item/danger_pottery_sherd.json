@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "gildedsherds:item/danger_pottery_sherd"
-  }
-}

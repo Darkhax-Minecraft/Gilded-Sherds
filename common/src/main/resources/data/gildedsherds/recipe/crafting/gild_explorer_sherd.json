@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "gildedsherds:config",
+      "property": "can_craft"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:explorer_pottery_sherd"
+    }
+  ],
+  "result": {
+    "id": "gildedsherds:minecraft/explorer_pottery_sherd"
+  }
+}

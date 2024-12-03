@@ -1,0 +1,18 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "gildedsherds:config",
+      "property": "can_recycle"
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "tag": "gildedsherds:gilded_sherds"
+  },
+  "experience": 0.2,
+  "result": {
+    "id": "minecraft:gold_nugget",
+    "count": 1
+  }
+}

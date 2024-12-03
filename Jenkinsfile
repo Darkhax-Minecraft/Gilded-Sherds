@@ -5,7 +5,7 @@ pipeline {
     agent any
 
     tools {
-        jdk "jdk-17.0.1"
+        jdk "jdk-21"
     }
 
     stages {
@@ -25,13 +25,13 @@ pipeline {
             steps {
 
                 withCredentials([
-                        file(credentialsId: 'build_secrets', variable: 'ORG_GRADLE_PROJECT_secretFile'),
-                        file(credentialsId: 'java_keystore', variable: 'ORG_GRADLE_PROJECT_keyStore'),
-                        file(credentialsId: 'gpg_key', variable: 'ORG_GRADLE_PROJECT_pgpKeyRing')
+                    file(credentialsId: 'build_secrets', variable: 'ORG_GRADLE_PROJECT_secretFile'),
+                    file(credentialsId: 'java_keystore', variable: 'ORG_GRADLE_PROJECT_keyStore'),
+                    file(credentialsId: 'gpg_key', variable: 'ORG_GRADLE_PROJECT_pgpKeyRing')
                 ]) {
 
                     echo 'Building project.'
-                    sh './gradlew build publish publishCurseForge modrinth updateVersionTracker postDiscord --stacktrace --warn'
+                    sh './gradlew build publish publishCurseForge modrinth postDiscord updateVersionTracker --stacktrace --warn'
                 }
             }
         }

@@ -1,0 +1,17 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "gildedsherds:config",
+      "property": "can_ungild"
+    }
+  ],
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0.2,
+  "ingredient": {
+    "item": "gildedsherds:minecraft/mourner_pottery_sherd"
+  },
+  "result": {
+    "id": "minecraft:mourner_pottery_sherd"
+  }
+}
