@@ -24,7 +24,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "gildedsherds:gilded_sherds"
+            "items": "#gildedsherds:gilded_sherds"
           }
         ]
       },
