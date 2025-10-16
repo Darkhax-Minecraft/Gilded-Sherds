@@ -3,9 +3,10 @@ package net.darkhax.gildedsherds.common.impl;
 import com.mojang.serialization.MapCodec;
 import net.darkhax.bookshelf.common.api.data.conditions.ILoadCondition;
 import net.darkhax.bookshelf.common.api.function.CachedSupplier;
-import net.darkhax.bookshelf.common.api.registry.IContentProvider;
-import net.darkhax.bookshelf.common.api.registry.register.Register;
-import net.darkhax.bookshelf.common.api.registry.register.RegisterPotPatterns;
+import net.darkhax.bookshelf.common.api.registry.ContentProvider;
+import net.darkhax.bookshelf.common.api.registry.adapters.GameRegistryAdapter;
+import net.darkhax.bookshelf.common.api.registry.adapters.GenericRegistryAdapter;
+import net.darkhax.bookshelf.common.impl.registry.adapter.PotPatternAdapter;
 import net.darkhax.gildedsherds.common.impl.config.ConfigProperty;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
@@ -14,7 +15,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.function.Supplier;
 
-public class Content implements IContentProvider {
+public class Content implements ContentProvider {
 
     private static final String[] VANILLA_SHERDS = new String[]{"angler", "archer", "arms_up", "blade", "brewer", "burn", "danger", "explorer", "friend", "heart", "heartbreak", "howl", "miner", "mourner", "plenty", "prize", "sheaf", "shelter", "skull", "snort", "flow", "guster", "scrape"};
     private static final Supplier<List<SherdType>> SHERD_TYPES = CachedSupplier.cache(() -> {
@@ -26,12 +27,12 @@ public class Content implements IContentProvider {
     });
 
     @Override
-    public String contentNamespace() {
+    public String namespace() {
         return GildedSherds.MOD_ID;
     }
 
     @Override
-    public void registerItems(Register<Item> registry) {
+    public void defineItems(GameRegistryAdapter<Item> registry) {
         for (SherdType type : SHERD_TYPES.get()) {
             if (type.canLoad()) {
                 registry.add(type.itemId(), type.item());
@@ -40,16 +41,16 @@ public class Content implements IContentProvider {
     }
 
     @Override
-    public void registerPotPatterns(RegisterPotPatterns registry) {
+    public void definePotPatterns(PotPatternAdapter registry) {
         for (SherdType type : SHERD_TYPES.get()) {
             if (type.canLoad()) {
-                registry.add(type.item(), type.patternId());
+                registry.addWithItem(type.patternId(), type.item());
             }
         }
     }
 
     @Override
-    public void registerLoadConditions(Register<MapCodec<? extends ILoadCondition>> registry) {
+    public void defineLoadConditions(GenericRegistryAdapter<MapCodec<? extends ILoadCondition>> registry) {
         registry.add("config", ConfigProperty.CODEC);
     }
 }
