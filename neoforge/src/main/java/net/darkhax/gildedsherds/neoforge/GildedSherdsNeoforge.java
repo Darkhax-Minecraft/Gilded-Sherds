@@ -1,12 +1,12 @@
-package net.darkhax.gildedsherds.neoforge.impl;
+package net.darkhax.gildedsherds.neoforge;
 
 import net.darkhax.gildedsherds.common.impl.GildedSherds;
 import net.neoforged.fml.common.Mod;
 
 @Mod(GildedSherds.MOD_ID)
-public class NeoForgeMod {
+public class GildedSherdsNeoforge {
 
-    public NeoForgeMod() {
+    public GildedSherdsNeoforge() {
         GildedSherds.init();
     }
 }

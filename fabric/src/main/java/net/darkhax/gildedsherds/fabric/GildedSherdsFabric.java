@@ -1,9 +1,9 @@
-package net.darkhax.gildedsherds.fabric.impl;
+package net.darkhax.gildedsherds.fabric;
 
 import net.darkhax.gildedsherds.common.impl.GildedSherds;
 import net.fabricmc.api.ModInitializer;
 
-public class FabricMod implements ModInitializer {
+public class GildedSherdsFabric implements ModInitializer {
 
     @Override
     public void onInitialize() {

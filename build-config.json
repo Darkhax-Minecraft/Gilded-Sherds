@@ -1,0 +1,58 @@
+{
+  "mod": {
+    "name": "GildedSherds",
+    "group": "net.darkhax.gildedsherds",
+    "authors": [
+      "Darkhax"
+    ],
+    "id": "gildedsherds",
+    "license": "ARR",
+    "description": "Potery sherds with a gilded twist! Loosely inspired by the practice of gilding and kintsugi.",
+    "repo": "https://github.com/Darkhax/Gilded-Sherds",
+    "client": false
+  },
+  "curseforge": {
+    "slug": "gilded-sherds",
+    "id": "935749"
+  },
+  "modrinth": {
+    "slug": "gilded-sherds",
+    "id": "hoN558ya"
+  },
+  "dependencies": [
+    {
+      "name": "Bookshelf",
+      "type": "required",
+      "maven": {
+        "common": "net.darkhax.bookshelf:bookshelf-common-26.1.2:26.1.2.4",
+        "neoforge": "net.darkhax.bookshelf:bookshelf-neoforge-26.1.2:26.1.2.4",
+        "fabric": "net.darkhax.bookshelf:bookshelf-fabric-26.1.2:26.1.2.4"
+      },
+      "curseforge": {
+        "slug": "bookshelf",
+        "id": "228525"
+      },
+      "modrinth": {
+        "slug": "bookshelf-lib",
+        "id": "uy4Cnpcm"
+      }
+    },
+    {
+      "name": "Prickle",
+      "type": "required",
+      "maven": {
+        "common": "net.darkhax.pricklemc:prickle-common-26.1.2:26.1.2.2",
+        "neoforge": "net.darkhax.pricklemc:prickle-neoforge-26.1.2:26.1.2.2",
+        "fabric": "net.darkhax.pricklemc:prickle-fabric-26.1.2:26.1.2.2"
+      },
+      "curseforge": {
+        "slug": "prickle",
+        "id": "1023259"
+      },
+      "modrinth": {
+        "slug": "prickle",
+        "id": "aaRl8GiW"
+      }
+    }
+  ]
+}

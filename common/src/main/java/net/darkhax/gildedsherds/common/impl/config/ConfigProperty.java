@@ -8,8 +8,7 @@ import net.darkhax.bookshelf.common.api.data.conditions.ILoadCondition;
 import net.darkhax.bookshelf.common.api.data.conditions.LoadConditions;
 import net.darkhax.bookshelf.common.api.function.CachedSupplier;
 import net.darkhax.gildedsherds.common.impl.GildedSherds;
-import net.minecraft.advancements.critereon.InventoryChangeTrigger;
-import net.minecraft.resources.ResourceLocation;
+import net.minecraft.resources.Identifier;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -17,7 +16,7 @@ import java.util.function.Supplier;
 
 public class ConfigProperty implements ILoadCondition {
 
-    public static final ResourceLocation TYPE_ID = GildedSherds.id("config");
+    public static final Identifier TYPE_ID = GildedSherds.id("config");
     public static final CachedSupplier<ConditionType> TYPE = CachedSupplier.cache(() -> LoadConditions.getType(TYPE_ID));
     public static final MapCodec<ConfigProperty> CODEC = RecordCodecBuilder.mapCodec(instance -> instance.group(MapCodecs.STRING.get("property", ConfigProperty::getProperty)).apply(instance, ConfigProperty::new));
 

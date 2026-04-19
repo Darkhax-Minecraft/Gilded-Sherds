@@ -8,9 +8,7 @@
   "type": "minecraft:smelting",
   "category": "misc",
   "experience": 0.2,
-  "ingredient": {
-    "item": "gildedsherds:minecraft/scrape_pottery_sherd"
-  },
+  "ingredient": "gildedsherds:minecraft/scrape_pottery_sherd",
   "result": {
     "id": "minecraft:scrape_pottery_sherd"
   }

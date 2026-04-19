@@ -1,28 +1,20 @@
 package net.darkhax.gildedsherds.common.impl;
 
-import net.darkhax.bookshelf.common.api.function.CachedSupplier;
 import net.darkhax.bookshelf.common.api.service.Services;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.item.Item;
+import net.minecraft.resources.Identifier;
 
 public class SherdType {
 
     private final String owner;
     private final String name;
-    private final CachedSupplier<Item> sherdItem;
 
     public SherdType(String owner, String name) {
         this.owner = owner;
         this.name = name;
-        this.sherdItem = CachedSupplier.cache(() -> new Item(new Item.Properties()));
     }
 
     public boolean canLoad() {
-        return ResourceLocation.DEFAULT_NAMESPACE.equals(this.owner) || Services.PLATFORM.isModLoaded(this.owner);
-    }
-
-    public Item item() {
-        return this.sherdItem.get();
+        return Identifier.DEFAULT_NAMESPACE.equals(this.owner) || Services.PLATFORM.isModLoaded(this.owner);
     }
 
     public String name() {

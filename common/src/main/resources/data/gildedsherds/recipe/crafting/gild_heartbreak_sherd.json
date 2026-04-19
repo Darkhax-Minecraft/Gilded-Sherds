@@ -8,12 +8,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:gold_nugget"
-    },
-    {
-      "item": "minecraft:heartbreak_pottery_sherd"
-    }
+    "minecraft:gold_nugget",
+    "minecraft:heartbreak_pottery_sherd"
   ],
   "result": {
     "id": "gildedsherds:minecraft/heartbreak_pottery_sherd"
