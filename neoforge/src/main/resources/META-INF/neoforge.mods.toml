@@ -4,9 +4,9 @@ issueTrackerURL = "https://github.com/Darkhax/Gilded-Sherds/issues"
 
 [[mods]]
 modId = "gildedsherds"
-version = "26.1.2.0"
+version = "26.2.0.0"
 displayName = "GildedSherds"
-updateJSONURL = "https://updates.blamejared.com/get?n=gildedsherds&gv=26.1.2&ml=neoforge"
+updateJSONURL = "https://updates.blamejared.com/get?n=gildedsherds&gv=26.2&ml=neoforge"
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/gilded-sherds"
 logoFile = "logo_gildedsherds.png"
 logoBlur = false
@@ -23,14 +23,14 @@ config = "gildedsherds.neoforge.mixins.json"
 [[dependencies.gildedsherds]]
 modId = "minecraft"
 type = "required"
-versionRange = "26.1"
+versionRange = "26.2"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.gildedsherds]]
 modId = "neoforge"
 type = "required"
-versionRange = "[26.1.0.1-beta,)"
+versionRange = "[26.2.0.1-beta,)"
 ordering = "NONE"
 side = "BOTH"
 
