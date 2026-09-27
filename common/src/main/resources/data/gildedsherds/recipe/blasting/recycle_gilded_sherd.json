@@ -6,6 +6,7 @@
     }
   ],
   "type": "minecraft:blasting",
+  "cookingtime": 200,
   "category": "misc",
   "ingredient": "#gildedsherds:gilded_sherds",
   "experience": 0.2,

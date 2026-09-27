@@ -6,6 +6,7 @@
     }
   ],
   "type": "minecraft:smelting",
+  "cookingtime": 200,
   "category": "misc",
   "experience": 0.2,
   "ingredient": "gildedsherds:minecraft/heart_pottery_sherd",
